@@ -29,4 +29,9 @@ public class AppContext extends Application {
             e.printStackTrace();
         }
     }
+
+
+    private void testGitBranch(){
+        
+    }
 }
